@@ -1,2 +1,3 @@
 # virgopsd
-SOHO VIRGO Power Spectrum 
+
+Experiments with the solar SOHO VIRGO power spectrum. 
